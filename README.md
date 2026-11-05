@@ -108,14 +108,15 @@ For `qNEI`, use the corresponding `bo_ex*_qnei_mc*.py` and `plot_sota_bo_ex*_qne
 If you find the SO-BO-scale helpful, please cite the following paper:
 
 ```bibtex
-@misc{yadav2025SO-BO-scale,
-      title={Bayesian Optimization under Uncertainty for Training a Scale Parameter in Stochastic Models},
-      author={Akash Yadav and Ruda Zhang},
-      year={2025},
-      eprint={2510.06439},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2510.06439},
+@article{yadav2026bayesian,
+  title   = {Bayesian Optimization under Uncertainty for Training a Scale Parameter in Stochastic Models},
+  author  = {Yadav, Akash and Zhang, Ruda},
+  journal = {ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering},
+  volume  = {12},
+  number  = {4},
+  pages   = {04026050},
+  year    = {2026},
+  doi     = {10.1061/AJRUA6.RUENG-1854}
 }
 ```
 
